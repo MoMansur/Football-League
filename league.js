@@ -24,7 +24,7 @@ for(let i = 0; i < pts.length; i++){
 }
 
 
-//leagues function
+//leagus function
 function team(team){
    /* for(let i = 0; i< team.length; i++){
     league.innerHTML += "<ul>" +[i] +". "+ team[i] + "<li>" +"</li>" +"</ul>";
